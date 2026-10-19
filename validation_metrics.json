@@ -1,0 +1,19 @@
+{
+  "validation_rows": 314,
+  "pr_auc_average_precision": 0.1973446544252271,
+  "balanced_accuracy": 0.616447261498456,
+  "precision_defective": 0.0935672514619883,
+  "recall_defective": 0.7619047619047619,
+  "f1_defective": 0.16666666666666666,
+  "selected_threshold": 0.052,
+  "confusion_matrix_tn_fp_fn_tp": [
+    138,
+    155,
+    5,
+    16
+  ],
+  "sensor_columns_used": 590,
+  "positive_count_total": 83,
+  "negative_count_total": 1170,
+  "missing_sensor_fraction": 0.04591015461198209
+}
